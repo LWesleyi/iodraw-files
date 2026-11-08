@@ -199,9 +199,6 @@
         <mxCell id="OCMa4atQqfa7Z3_C8Hpr-90" value="&lt;span style=&quot;font-size:12.0pt;line-height:150%;&#xa;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&#xa;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:&#xa;minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&#xa;AR-SA&quot;&gt;损失函数&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1730" y="850" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PMV95XRltLRQaf4eo7Em-3" value="给我画一个火苗和雪花,放在时序输入右边" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1520" width="250" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
